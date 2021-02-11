@@ -1,0 +1,12 @@
+{
+    "hydra":{
+        "serviceName":"wishesms",
+        "serviceIP":"",
+        "servicePort":8282,
+        "serviceType":"",
+        "serviceDescription":"A sample wishing microservice",
+        "redis":{
+            "url":"redis://127.0.0.1:6379/15"
+        }
+    }
+}
