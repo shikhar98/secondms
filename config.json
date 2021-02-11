@@ -5,8 +5,10 @@
         "servicePort":8282,
         "serviceType":"",
         "serviceDescription":"A sample wishing microservice",
-        "redis":{
-            "url":"redis://127.0.0.1:6379/15"
-        }
+        "redis": {
+            "url":"redis://redis-18978.c10.us-east-1-2.ec2.cloud.redislabs.com:18978",
+            "db":"0",
+            "password":"PdFlspEhtfK4vXov5uHsOfLbQ8trMkpY"
+          }
     }
 }
